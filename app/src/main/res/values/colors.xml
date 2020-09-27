@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+<color name="colorPrimary">#CDCA13</color>
+<color name="colorPrimaryDark">#3700B3</color>
+<color name="colorAccent">#03DAC5</color>
+<color name="orange_cream">#C56318</color>
+<color name="grey">#A29E98</color>
+<color name="dusk_blue">#8BADCA</color>
 </resources>
